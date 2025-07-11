@@ -37,7 +37,9 @@ I'm a passionate full-stack developer with 10+ years of experience specializing 
 
 ### 🧱 Architecture
 ![DDD](https://img.shields.io/badge/DDD-Domain--Driven--Design-blue?style=flat)
+
 ![CQRS](https://img.shields.io/badge/CQRS-Command/Query-red?style=flat)
+
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-green?style=flat)
 
 ### 🔧 Tools
