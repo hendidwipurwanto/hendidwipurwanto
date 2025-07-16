@@ -14,7 +14,7 @@ I'm a passionate full-stack developer with 10+ years of experience specializing 
 ---
 
 ## 🚀 Current Focus
-- 📈 - 🧾 Developing a [Portfolio Investment System](https://github.com/hendidwipurwanto/portfolio-investment) Showcase Project with ASP.NET Core Web API + React
+- 📈 - 🧾 Developing a [Portfolio Investment System](https://github.com/hendidwipurwanto/portfolio-investment) Personal Showcase Project with ASP.NET Core Web API + React
 - 🏥 Building a modular **Hospital Information System** Personal Showcase Project with ASP.NET Core MVC + SQL Server  
 - 🛒 Maintaining an **E-Commerce System** Personal Showcase Project using ASP.NET Core MVC + Razor + SQL Server  
 
