@@ -14,7 +14,7 @@ I'm a passionate full-stack developer with 10+ years of experience specializing 
 ---
 
 ## 🚀 Current Focus
-- 📈 - 🧾 Developing a **Portfolio Investment System**  with ASP.NET Core Web API + React
+- 📈 - 🧾 Developing a **AZ11APS (AIMS Zona 11 Acceleration Programs & Process Safety)**  with ASP.NET Core Web MVC
 - 🏥 Building a modular **Hospital Information System**  with ASP.NET Core MVC + SQL Server  
 - 🛒 Maintaining an **E-Commerce System**  using ASP.NET Core MVC + Razor + SQL Server  
 
