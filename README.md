@@ -14,7 +14,7 @@ I'm a passionate full-stack developer with 10+ years of experience specializing 
 ---
 
 ## 🚀 Current Focus
-- 📈 - 🧾 Developing a **AZ11APS (AIMS Zona 11 Acceleration Programs & Process Safety)**  with ASP.NET Core Web MVC + SQL Server 
+- 🧾 Developing a **AZ11APS (AIMS Zona 11 Acceleration Programs & Process Safety)**  with ASP.NET Core Web MVC + SQL Server 
 - 🛒 Developing a ***Shayangkoeh Bakery E-Commerce*** + SQL Server  
 
 ---
