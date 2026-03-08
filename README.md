@@ -7,15 +7,16 @@
 
 # 👋 Hi, I'm Hendi Dwi Purwanto
 
-### 💻 Full-Stack ASP.NET Developer | Microsoft Certified | Remote-Ready | 10+ Years
+### 💻 Senior .NET Backend Engineer | ASP.NET Core | Clean Architecture | 10+ Years
 
 I'm a passionate full-stack developer with 10+ years of experience specializing in ASP.NET Core MVC & Web API. I've worked remotely with teams across Singapore 🇸🇬, Australia 🇦🇺, the US 🇺🇸, and Indonesia 🇮🇩, building scalable solutions for e-commerce, healthcare, education, and finance.
  
 ---
 
 ## 🚀 Current Focus
-- 🧾 Developing a **AZ11APS (AIMS Zona 11 Acceleration Programs & Process Safety)**  with ASP.NET Core Web MVC + SQL Server 
-- 🛒 Developing a ***Shayangkoeh Bakery E-Commerce*** + SQL Server  
+• Designing scalable backend systems using ASP.NET Core and Clean Architecture
+• Building RESTful APIs and authentication systems (Keycloak SSO, RBAC)
+• Developing a ***Shayangkoeh Bakery E-Commerce*** + SQL Server  
 
 ---
 
